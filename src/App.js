@@ -1,10 +1,9 @@
+import Landing from "./pages/landing/Landing";
+
 function App() {
   return (
     <div className="App">
-      <header className="App-header"></header>
-      <body>
-        <h1>Jobster</h1>
-      </body>
+      <Landing />
     </div>
   );
 }
